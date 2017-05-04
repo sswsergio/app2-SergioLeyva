@@ -14,9 +14,9 @@ Aplicacion que describe el funcionamiento de PhoneGap
 Sergio Leyva
 </author>
 
-<icon src="images/phonegap1.png" gap:density="ldpi" gap:platform="android" />
-<icon src="images/phonegap2.png" gap:density="mdpi" gap:platform="android" />
-<icon src="images/phonegap3.png" gap:density="hdpi" gap:platform="android" />
-<icon src="images/phonegap4.png" gap:density="xhdpi" gap:platform="android" />
+<icon src="images/uas.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/uas.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/uas.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/uas.png" gap:density="xhdpi" gap:platform="android" />
 
 </widget>
