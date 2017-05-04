@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.app2SergioLeyva"
+version = "1.0.0">
+
+<name>PhoneGap-SergioLeyva</name>
+
+<description>
+Aplicacion que describe el funcionamiento de PhoneGap
+</description>
+
+<author href="https://sergioleyva8@hotmail.com" email="sergioleyva8@hotmail.com">
+Sergio Leyva
+</author>
+
+<icon src="images/phonegap1.png" gap:density="ldpi" gap:platform="android" />
+<icon src="images/phonegap2.png" gap:density="mdpi" gap:platform="android" />
+<icon src="images/phonegap3.png" gap:density="hdpi" gap:platform="android" />
+<icon src="images/phonegap4.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
